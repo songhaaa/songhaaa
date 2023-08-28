@@ -37,10 +37,10 @@
 - 2023 Capstone Design in Hankuk University of Foreign Studies 1st Place (27 teams)
 <br/><br/>
 
-## 🌱 I’m currently learning ...
+## 🌱 I’m currently interested in...
 - Semi-Supervised learning
 - Domain Adaptation
-- Brain-Somputer Interface
+- Brain-Computer Interface
 <br/><br/>
 
 ## 💻 Skills
