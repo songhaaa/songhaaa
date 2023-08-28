@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi%20there👋🏻%20I'm%20songhaaa.&fontAlign=65&fontAlignY=40&fontSize=50&fontColor=927A78&animation=twinkling)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsonghaaa%2Fhit-counter&count_bg=%23CCB2F4&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br/><br/>
-# 🐯 Hi! I'm SongHa Kim
+# 🐯 Hi! I'm Songha Kim
 - Highly motivated student with a strong passion for learning and a positive attitude.
 <br/><br/>
 
