@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi%20there👋🏻%20I'm%20songhaaa.&fontAlign=65&fontAlignY=40&fontSize=50&fontColor=927A78&animation=twinkling)
 
-<br/><br/><br/>
+<br/><br/>
 # 🐯 Hi! I'm SongHa Kim
 - Highly motivated student with a strong passion for learning and a positive attitude.
 <br/><br/>
