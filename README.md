@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=songhaaa%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi!%20I'm%20songhaaa.&fontSize=90)
 ### Hi there 👋
 
 <!--
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![footer](https://capsule-render.vercel.app/api?section=footer)
