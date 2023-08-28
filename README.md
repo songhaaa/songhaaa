@@ -13,10 +13,10 @@
 <br/><br/>
 
 ## 💌 How to reach me
-<a href="thdgk0513@gmail.com">
+<a href="https://img.shields.io/badge/thdgk0513@gmail.com-EA4335">
   <img src="https://img.shields.io/badge/thdgk0513@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&link=thdgk0513@gmail.com"/>
 </a>
-<a href="thdgk0513@naver.com">
+<a href="https://img.shields.io/badge/thdgk0513@naver.com-03C75A">
   <img src="https://img.shields.io/badge/thdgk0513@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white&link=thdgk0513@naver.com"/>
 </a>
 <a href="https://www.instagram.com/songhaaa__/">
