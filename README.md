@@ -130,7 +130,7 @@
 - MAILAB,  July 2023 - Present: Work as Undergraduate Student under the supervision of Professor Tae-eui Kam at Korea University
 - labHAI, March 2023 - June, 2023: Work as Undergraduate Student under the supervision of Professor Ikbeom Jang  at Hankuk University of Foreign Studies.
 #### Teaching assistant
-- Object Oriented Programming, September 2023 - Present: As a computer engineering major, I obtained an A+ and worked as an assistant in this course.
+- Object Oriented Programming, September 2023 - December 2023: As a computer engineering major, I obtained an A+ and worked as an assistant in this course.
 - Discrete Mathematics, March 2023 - June 2023: As a computer engineering major, I obtained an A+ and worked as an assistant in this course.
 - Coding Zone, March 2023 - June 2023: Served as a supervisor for a basic training program aimed at enhancing students' Python skills. Provided one-on-one explanations of solutions to students.
 - Advanced Python Programming, March 2022 - June 2022: Assisted in teaching and evaluating subjects held at the Seoul Campus of Hankuk University of Foreign Studies.
