@@ -6,7 +6,9 @@
 <br/><br/>
 
 ## 👩🏻‍🎓 Education
-#### Hankuk University of Foreign Studies(HUFS), March 2020 - Present
+#### Korea University, March 2024 - Present
+- Major: Artificial Intelligence
+#### Hankuk University of Foreign Studies(HUFS), March 2020 - February 2024
 - Major: Computer Engineering / Minor: Statistics
 - Student President of the Engineering College, 2022
 - HUFS SW Volunteer, 2022-2023
