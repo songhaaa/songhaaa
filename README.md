@@ -35,7 +35,7 @@
 <br/><br/>
 
 ## 🌱 I’m currently interested in...
-- Semi-Supervised learning
+- Semi-Supervised Learning
 - Domain Adaptation
 - Brain-Computer Interface
 <br/><br/>
