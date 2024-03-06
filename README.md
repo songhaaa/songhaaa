@@ -6,12 +6,11 @@
 <br/><br/>
 
 ## 👩🏻‍🎓 Education
-#### Korea University, March 2024 - Present
+#### Korea University, Mar 2024 - 
 - Major: Artificial Intelligence
-#### Hankuk University of Foreign Studies(HUFS), March 2020 - February 2024
-- Major: Computer Engineering / Minor: Statistics
+#### Hankuk University of Foreign Studies(HUFS), Mar 2020 - Feb 2024
+- Major: Computer Engineering / Double Major: Statistics
 - Student President of the Engineering College, 2022
-- HUFS SW Volunteer, 2022-2023
 <br/><br/>
 
 ## 💌 How to reach me
@@ -33,10 +32,6 @@
 <a href="https://github.com/songhaaa">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/songhaaa"/>
 </a>
-<br/><br/>
-
-## 🏆 Awards
-- 2023 Capstone Design in Hankuk University of Foreign Studies 1st Place (27 teams)
 <br/><br/>
 
 ## 🌱 I’m currently interested in...
@@ -124,18 +119,6 @@
 </a>
 <br/><br/>
 
-
-## 🔭 Experience
-#### Lab
-- MAILAB,  July 2023 - Present: Work as Undergraduate Student under the supervision of Professor Tae-eui Kam at Korea University
-- labHAI, March 2023 - June, 2023: Work as Undergraduate Student under the supervision of Professor Ikbeom Jang  at Hankuk University of Foreign Studies.
-#### Teaching assistant
-- Object Oriented Programming, September 2023 - December 2023: As a computer engineering major, I obtained an A+ and worked as an assistant in this course.
-- Discrete Mathematics, March 2023 - June 2023: As a computer engineering major, I obtained an A+ and worked as an assistant in this course.
-- Coding Zone, March 2023 - June 2023: Served as a supervisor for a basic training program aimed at enhancing students' Python skills. Provided one-on-one explanations of solutions to students.
-- Advanced Python Programming, March 2022 - June 2022: Assisted in teaching and evaluating subjects held at the Seoul Campus of Hankuk University of Foreign Studies.
-<br/><br/>
-
 ## 🎯 Git Stats
 ![songhaaa's github stats](https://github-readme-stats.vercel.app/api?username=songhaaa&show=reviews,prs_merged,prs_merged_percentage_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songhaaa)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -152,4 +135,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## 🏆 Awards
+- 2023 Capstone Design in Hankuk University of Foreign Studies 1st Place (27 teams)
+<br/><br/>
+
+## 🔭 Experience
+#### Lab
+- MAILAB,  July 2023 - Present: Work as Undergraduate Student under the supervision of Professor Tae-eui Kam at Korea University
+- labHAI, March 2023 - June, 2023: Work as Undergraduate Student under the supervision of Professor Ikbeom Jang  at Hankuk University of Foreign Studies.
+#### Teaching assistant
+- Object Oriented Programming, September 2023 - December 2023: As a computer engineering major, I obtained an A+ and worked as an assistant in this course.
+- Discrete Mathematics, March 2023 - June 2023: As a computer engineering major, I obtained an A+ and worked as an assistant in this course.
+- Coding Zone, March 2023 - June 2023: Served as a supervisor for a basic training program aimed at enhancing students' Python skills. Provided one-on-one explanations of solutions to students.
+- Advanced Python Programming, March 2022 - June 2022: Assisted in teaching and evaluating subjects held at the Seoul Campus of Hankuk University of Foreign Studies.
+<br/><br/>
+
+
 -->
