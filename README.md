@@ -6,9 +6,9 @@
 <br/><br/>
 
 ## 👩🏻‍🎓 Education
-#### Korea University, Mar 2024 - 
+#### M.S in Korea University, Mar 2024 - 
 - Major: Artificial Intelligence
-#### Hankuk University of Foreign Studies(HUFS), Mar 2020 - Feb 2024
+#### B.S. in Hankuk University of Foreign Studies(HUFS), Mar 2020 - Feb 2024
 - Major: Computer Engineering / Double Major: Statistics
 - Student President of the Engineering College, 2022
 <br/><br/>
