@@ -6,9 +6,9 @@
 <br/><br/>
 
 ## 👩🏻‍🎓 Education
-#### M.S in Korea University, Mar 2024 - 
+#### M.S @ Korea University, Mar 2024 - 
 - Major: Artificial Intelligence
-#### B.S. in Hankuk University of Foreign Studies(HUFS), Mar 2020 - Feb 2024
+#### B.S. @ Hankuk University of Foreign Studies(HUFS), Mar 2020 - Feb 2024
 - Major: Computer Engineering / Double Major: Statistics
 - Student President of the Engineering College, 2022
 <br/><br/>
@@ -16,12 +16,6 @@
 ## 💌 How to reach me
 <a href="https://img.shields.io/badge/thdgk0513@gmail.com-EA4335">
   <img src="https://img.shields.io/badge/thdgk0513@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&link=thdgk0513@gmail.com"/>
-</a>
-<a href="https://img.shields.io/badge/thdgk0513@naver.com-03C75A">
-  <img src="https://img.shields.io/badge/thdgk0513@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white&link=thdgk0513@naver.com"/>
-</a>
-<a href="https://www.instagram.com/songhaaa__/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/songhaaa__/"/>
 </a>
 <a href="https://www.linkedin.com/in/songhaaakim/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/songhaaakim/"/>
