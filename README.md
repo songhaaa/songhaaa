@@ -1,8 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi%20there👋🏻%20I'm%20songhaaa.&fontAlign=65&fontAlignY=40&fontSize=50&fontColor=927A78&animation=twinkling)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsonghaaa%2Fhit-counter&count_bg=%23CCB2F4&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br/><br/>
-# 🐯 Hi! I'm Songha Kim
-- Highly motivated student with a strong passion for learning and a positive attitude.
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi%20👋🏻%20I'm%20Songha%20Kim%20🐯&fontAlign=65&fontAlignY=40&fontSize=50&fontColor=927A78&animation=twinkling)
 <br/><br/>
 
 ## 👩🏻‍🎓 Education
@@ -10,7 +6,6 @@
 - Major: Artificial Intelligence
 #### B.S. @ Hankuk University of Foreign Studies(HUFS), Mar 2020 - Feb 2024
 - Major: Computer Engineering / Double Major: Statistics
-- Student President of the Engineering College, 2022
 <br/><br/>
 
 ## 💌 How to reach me
@@ -29,10 +24,38 @@
 <br/><br/>
 
 ## 🌱 I’m currently interested in...
-- Semi-Supervised Learning
-- Domain Adaptation
-- Brain-Computer Interface
+- Semi-Supervised EEG-based Emotion Recognition
+- Brain-to-Text Decoding
+- LLM-based Complex Reasoning
 <br/><br/>
+
+## 🎯 Git Stats
+![songhaaa's github stats](https://github-readme-stats.vercel.app/api?username=songhaaa&show=reviews,prs_merged,prs_merged_percentage_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songhaaa)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+**songhaaa/songhaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsonghaaa%2Fhit-counter&count_bg=%23CCB2F4&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+# 🐯 Hi! I'm Songha Kim
+- Highly motivated student with a strong passion for learning and a positive attitude.
+<br/><br/>
+
+#### B.S. @ Hankuk University of Foreign Studies(HUFS), Mar 2020 - Feb 2024
+- Major: Computer Engineering / Double Major: Statistics
+- Student President of the Engineering College, 2022
 
 ## 💻 Skills
 #### Languge
@@ -112,23 +135,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 </a>
 <br/><br/>
-
-## 🎯 Git Stats
-![songhaaa's github stats](https://github-readme-stats.vercel.app/api?username=songhaaa&show=reviews,prs_merged,prs_merged_percentage_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songhaaa)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**songhaaa/songhaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 ## 🏆 Awards
 - 2023 Capstone Design in Hankuk University of Foreign Studies 1st Place (27 teams)
