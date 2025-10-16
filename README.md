@@ -25,7 +25,7 @@
 
 ## 🌱 I’m currently interested in...
 - Semi-Supervised EEG-based Emotion Recognition
-- Brain-to-Text Decoding
+- MLLM distillation
 - LLM-based Complex Reasoning
 <br/><br/>
 
