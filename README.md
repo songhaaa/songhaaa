@@ -10,7 +10,7 @@
 
 ## 💌 How to reach me
 <a href="https://img.shields.io/badge/thdgk0513@korea.ac.kr-EA4335">
-  <img src="https://img.shields.io/badge/thdgk0513@korea.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white&link=thdgk0513@gmail.com"/>
+  <img src="https://img.shields.io/badge/thdgk0513@korea.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white&link=thdgk0513@korea.ac.kr"/>
 </a>
 <a href="https://www.linkedin.com/in/songhaaakim/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/songhaaakim/"/>
