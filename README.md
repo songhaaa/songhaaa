@@ -9,8 +9,8 @@
 <br/><br/>
 
 ## 💌 How to reach me
-<a href="https://img.shields.io/badge/thdgk0513@gmail.com-EA4335">
-  <img src="https://img.shields.io/badge/thdgk0513@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&link=thdgk0513@gmail.com"/>
+<a href="https://img.shields.io/badge/thdgk0513@korea.ac.kr-EA4335">
+  <img src="https://img.shields.io/badge/thdgk0513@korea.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white&link=thdgk0513@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/songhaaakim/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/songhaaakim/"/>
@@ -24,8 +24,8 @@
 <br/><br/>
 
 ## 🌱 I’m currently interested in...
-- Semi-Supervised EEG-based Emotion Recognition
-- MLLM distillation
+- Semi-Supervised Approach for EEG-based Emotion Recognition
+- LLM Implicit CoT Distillation
 - LLM-based Complex Reasoning
 <br/><br/>
 
