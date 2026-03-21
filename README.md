@@ -1,12 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi%20👋🏻%20I'm%20Songha%20Kim%20🐯&fontAlign=65&fontAlignY=40&fontSize=50&fontColor=927A78&animation=twinkling)
-<br/><br/>
 
-## 👩🏻‍🎓 Education
-#### M.S @ Korea University, Mar 2024 - 
-- Major: Artificial Intelligence
-#### B.S. @ Hankuk University of Foreign Studies(HUFS), Mar 2020 - Feb 2024
-- Major: Computer Engineering / Double Major: Statistics
-<br/><br/>
+### 🚀 You can check my CV [here](https://your-link)!
+
+## 🌱 I’m currently interested in...
+- Semi-Supervised Approach for EEG-based Emotion Recognition
+- LLM Implicit CoT Distillation
+- LLM-based Complex Reasoning
 
 ## 💌 How to reach me
 <a href="https://img.shields.io/badge/thdgk0513@korea.ac.kr-EA4335">
@@ -21,15 +20,14 @@
 <a href="https://github.com/songhaaa">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/songhaaa"/>
 </a>
-<br/><br/>
-
-## 🌱 I’m currently interested in...
-- Semi-Supervised Approach for EEG-based Emotion Recognition
-- LLM Implicit CoT Distillation
-- LLM-based Complex Reasoning
-<!-- <br/><br/> -->
 
 <!--
+## 👩🏻‍🎓 Education
+#### M.S @ Korea University, Mar 2024 - 
+- Major: Artificial Intelligence
+#### B.S. @ Hankuk University of Foreign Studies(HUFS), Mar 2020 - Feb 2024
+- Major: Computer Engineering / Double Major: Statistics
+<br/><br/>
 
 ## 🎯 Git Stats
 ![songhaaa's github stats](https://github-readme-stats.vercel.app/api?username=songhaaa&show=reviews,prs_merged,prs_merged_percentage_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songhaaa)](https://github.com/anuraghazra/github-readme-stats)
