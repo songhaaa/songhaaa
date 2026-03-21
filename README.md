@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi%20👋🏻%20I'm%20Songha%20Kim%20🐯&fontAlign=65&fontAlignY=40&fontSize=50&fontColor=927A78&animation=twinkling)
 
-### 🚀 You can check my CV [here](https://your-link)!
+### 🚀 You can check my CV [here](https://drive.google.com/file/d/1fi82zNIhL5lv_sbi7S7PFjqppo2dwUpL/view?usp=sharing)!
 
 ## 🌱 I’m currently interested in...
 - Semi-Supervised Approach for EEG-based Emotion Recognition
